@@ -1,4 +1,4 @@
-# 🤖 Lins PY Bot
+# Lins PY Bot
 
 Lins PY Bot adalah bot yang dapat berjalan di platform Telegram dan WhatsApp (fitur WhatsApp masih dalam pengembangan). Bot ini dibuat menggunakan Python dengan berbagai modul seperti `rich`, `requests`, dan `python-telegram-bot`.
 
@@ -47,7 +47,7 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
   
   **Pada Tanggal**: 7 Februari 2025
 
-## 🌐 Sosial Media & Kontak
+## Sosial Media
 
 Tetap terhubung dengan saya melalui berbagai platform berikut:
 
@@ -57,4 +57,4 @@ Tetap terhubung dengan saya melalui berbagai platform berikut:
 - 📢 **Saluran WhatsApp:** [Lins Official Channel](https://whatsapp.com/channel/0029VaeQHirJ93waiykxjF2L)
 - 🌍 **Website:** [Lins Official Website](https://linsofc.github.io)
 
-Jangan lupa untuk subscribe, follow, dan bergabung untuk mendapatkan update terbaru! 🚀
+Jangan lupa untuk subscribe, follow, dan bergabung untuk mendapatkan update terbaru!
