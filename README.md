@@ -32,4 +32,5 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
 
 ## Pengembang
   **Dibuat oleh**: Lins Official
-  **Tanggal Rilis**: 7 Februari 2025
+  
+  **Pada Tanggal**: 7 Februari 2025
