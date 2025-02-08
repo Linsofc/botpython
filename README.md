@@ -23,5 +23,14 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
 ## 🔧 Instalasi & Penggunaan
 1. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/Linsofc/Lins-PY-Bot.git
-   cd Lins-PY-Bot
+   git clone https://github.com/Linsofc/botpython.git
+   cd botpython
+
+2. **Instal Dependensi**
+   ```bash
+   pip install requests rich python-telegram-bot pyfiglet
+
+3. **Jalankan Bot**
+   ```bash
+   python index.py
+
