@@ -17,16 +17,28 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
 - Token bot Telegram yang valid
 
 ## Instalasi & Penggunaan
-1. **Clone repositori ini:**
+1. **Update Dan Upgrade**
+   ```bash
+   pkg update && pkg upgrade
+
+2. **Install Git**
+   ```bash
+   pkg install git -y
+
+3. **Install Python**
+   ```bash
+   pkg install python -y
+
+4. **Clone repositori ini:**
    ```bash
    git clone https://github.com/Linsofc/botpython.git
    cd botpython
 
-2. **Instal Dependensi**
+5. **Instal Dependensi**
    ```bash
    pip install -r install.txt
 
-3. **Jalankan Bot**
+6. **Jalankan Bot**
    ```bash
    python index.py
 
