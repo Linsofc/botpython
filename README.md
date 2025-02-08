@@ -46,3 +46,15 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
   **Dibuat oleh**: Lins Official
   
   **Pada Tanggal**: 7 Februari 2025
+
+## 🌐 Sosial Media & Kontak
+
+Tetap terhubung dengan saya melalui berbagai platform berikut:
+
+- 🎥 **YouTube:** [Lins Official](https://youtube.com/@LinsOfficiall)
+- 📷 **Instagram:** [rijalsavior](https://instagram.com/rijalsavior)
+- 💬 **WhatsApp:** [Chat WhatsApp](https://wa.me/6285190090045)
+- 📢 **Saluran WhatsApp:** [Lins Official Channel](https://whatsapp.com/channel/0029VaeQHirJ93waiykxjF2L)
+- 🌍 **Website:** [Lins Official Website](https://linsofc.github.io)
+
+Jangan lupa untuk subscribe, follow, dan bergabung untuk mendapatkan update terbaru! 🚀
